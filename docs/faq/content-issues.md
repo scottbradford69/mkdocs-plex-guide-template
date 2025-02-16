@@ -15,15 +15,3 @@ If you encounter any problems with content (such as distorted video, incorrect m
     <center><video style="width:65%" controls="true" alt="type:video">
         <source src="../../assets/video/overseerr-reporting-issues.webm" type="video/webm">
     </video></center>
-
-## Why use Overseerr for reporting?
-
-- Creates a documented history of the issue
-- Helps me track problems I can't fix immediately
-- Makes it easier to identify patterns in content issues
-- Provides all the necessary details in one place
-
-## Direct Contact
-
-   - You can always contact me directly about any issues
-   - This is perfectly fine and works too!
